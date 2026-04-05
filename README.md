@@ -34,7 +34,7 @@
 
 # 📥 How to Use
 ## 1. Clone the repository
-- git clone https://github.com/your-username/your-repo-name.git
+- https://github.com/Sankesh12/sankesh-lal12.github.io.git
 ## 2. Open index.html in browser
 
 # 🌍 Live Demo
