@@ -38,7 +38,7 @@
 ## 2. Open index.html in browser
 
 # 🌍 Live Demo
-👉 (Add your GitHub Pages link here)
+- https://sankesh12.github.io/sankesh-lal12.github.io/
 
 # 📬 Contact
 - 📧 Email: sankesh.lal12@gmail.com
