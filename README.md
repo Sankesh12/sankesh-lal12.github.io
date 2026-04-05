@@ -32,15 +32,15 @@
 - 💻 Laptop Price Predictor
 - 🎬 Movie Blockbuster Prediction
 
-📥 How to Use
-Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-Open index.html in browser
-🌍 Live Demo
+# 📥 How to Use
+## 1. Clone the repository
+- git clone https://github.com/your-username/your-repo-name.git
+## 2. Open index.html in browser
 
+# 🌍 Live Demo
 👉 (Add your GitHub Pages link here)
 
-📬 Contact
-📧 Email: sankesh.lal12@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/sankeshlal/
-💻 GitHub: https://github.com/Sankesh12
+# 📬 Contact
+- 📧 Email: sankesh.lal12@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/sankeshlal/
+- 💻 GitHub: https://github.com/Sankesh12
