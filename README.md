@@ -39,7 +39,6 @@ I build smart ML apps — from raw data to live, working predictions.
 - CSS3
 - JavaScript
 - Font Awesome Icons
-- Google Fonts (Outfit, Fira Code)
 
 ---
 
@@ -48,7 +47,7 @@ I build smart ML apps — from raw data to live, working predictions.
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
 | 📧 Email/SMS Spam Classifier | NLP model using Naive Bayes to detect spam | [View](https://email-sms-spam-classifier-01.streamlit.app/) |
-| 💻 Laptop Price Predictor | Predicts laptop price based on specs | [View](https://laptop-price-predictor-01.streamlit.app/) |
+| 💻 Laptop Price Predictor | Predicts laptop price based on specifications | [View](https://laptop-price-predictor-01.streamlit.app/) |
 | 🎬 Movie Blockbuster Prediction | Predicts if a movie will be a blockbuster | [View](https://movie-blockbuster-prediction-01.streamlit.app/) |
 
 ---
