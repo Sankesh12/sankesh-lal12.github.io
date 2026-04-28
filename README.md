@@ -5,7 +5,7 @@
 
 # 🌐 Sankesh Lal — Portfolio Website
 
-Welcome to my personal portfolio website! 🚀  
+Welcome to my personal portfolio website. 
 A clean, fully responsive portfolio built with HTML, CSS, and JavaScript.
 
 ---
