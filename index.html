@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sankesh Lal | Portfolio</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Fira+Code:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <nav id="navbar">
+ <a href="#" class="logo">SK.</a>
+     <ul class="nav-links" id="navLinks">
+      <li><a href="#about">About</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#certificates">Certificates</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+    <div class="nav-actions">
+      <button id="themeBtn">🌙</button>
+      <button id="menuBtn"><i class="fas fa-bars"></i></button>
+    </div>
+  </nav>
+
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-text">
+      <span class="tag">Python Developer and Data Scientist</span>
+      <h1>Hi, I'm <span>Sankesh Lal</span></h1>
+      <p>I build smart ML apps from raw data to live, working predictions, and deploy them as real web applications.</p>
+      <div class="hero-btns">
+        <a href="#projects" class="btn-solid">View Projects</a>
+        <a href="./Sankesh_Lal_Resume.pdf" class="btn-ghost" download><i class="fas fa-download"></i> Resume</a>
+      </div>
+    </div>
+    <div class="hero-photo">
+      <img src="./SK.jpeg" alt="Sankesh Lal">
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section id="about" class="sec">
+    <span class="sec-tag">About me</span>
+    <h2>Who I Am</h2>
+    <p class="sec-desc">I'm a Data Scientist based in Sukkur, Pakistan. I love turning messy raw data into clean, working ML solutions that solve real problems.</p>
+    <div class="about-grid">
+      <div class="abox">
+        <i class="fas fa-chart-line"></i>
+        <h3>Data Analysis</h3>
+        <p>Finding patterns and insights in complex datasets using Python, Pandas, and visualization tools.</p>
+      </div>
+      <div class="abox">
+        <i class="fas fa-robot"></i>
+        <h3>Machine Learning</h3>
+        <p>Building predictive models with Scikit-learn and deploying them live using Streamlit.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROJECTS -->
+  <section id="projects" class="sec">
+    <span class="sec-tag">Projects</span>
+    <h2>Featured Work</h2>
+    <div class="cards-grid">
+
+      <div class="card">
+        <img src="./email.png" alt="Email Spam Classifier">
+        <div class="card-body">
+          <h3>Email / SMS Spam Classifier</h3>
+          <p>NLP model that detects spam messages using tokenization, stopword removal, and Naive Bayes.</p>
+          <div class="card-links">
+            <a href="https://github.com/Sankesh12/Email-SMS-Spam-Classifier" target="_blank"><i class="fab fa-github"></i> Code</a>
+            <a href="https://email-sms-spam-classifier-01.streamlit.app/" target="_blank"><i class="fas fa-eye"></i> Demo</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <img src="./laptop7.png" alt="Laptop Price Predictor">
+        <div class="card-body">
+          <h3>Laptop Price Predictor</h3>
+          <p>ML app that estimates laptop prices based on RAM, CPU, storage and other specs.</p>
+          <div class="card-links">
+            <a href="https://github.com/Sankesh12/Laptop-Price-Predictor" target="_blank"><i class="fab fa-github"></i> Code</a>
+            <a href="https://laptop-price-predictor-01.streamlit.app/" target="_blank"><i class="fas fa-eye"></i> Demo</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <img src="./movie1.png" alt="Movie Blockbuster Prediction">
+        <div class="card-body">
+          <h3>Movie Blockbuster Prediction</h3>
+          <p>Predicts if a movie will be a blockbuster based on production features and data.</p>
+          <div class="card-links">
+            <a href="https://github.com/Sankesh12/Movie-Blockbuster-Prediction" target="_blank"><i class="fab fa-github"></i> Code</a>
+            <a href="https://movie-blockbuster-prediction-01.streamlit.app/" target="_blank"><i class="fas fa-eye"></i> Demo</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- CERTIFICATES -->
+  <section id="certificates" class="sec">
+    <span class="sec-tag">Certificates</span>
+    <h2>Credentials</h2>
+    <div class="cards-grid">
+      <div class="cert-card">
+        <img src="./data_science.jpg" alt="Data Science">
+        <p>Data Science Professional Certificate</p>
+        <a href="https://www.life-global.org/certificate/e84d0c3e-e743-4252-b06d-1a0c3d37a395" target="_blank"><i class="fas fa-arrow-right"></i> View</a>
+      </div>
+      <div class="cert-card">
+        <img src="./Cisco_AI.jpg" alt="Cisco AI">
+        <p>Introduction To Modern AI — Cisco</p>
+        <a href="./Cisco_AI.jpg" target="_blank"><i class="fas fa-arrow-right"></i> View</a>
+      </div>
+      <div class="cert-card">
+        <img src="./DIT.jpg" alt="DIT">
+        <p>Diploma in Information Technology</p>
+        <a href="./DIT.jpg" target="_blank"><i class="fas fa-arrow-right"></i> View</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- EXPERIENCE -->
+  <section id="experience" class="sec">
+    <span class="sec-tag">Experience</span>
+    <h2>Work History</h2>
+    <div class="exp-box">
+      <div class="exp-top">
+        <div>
+          <h3>Machine Learning Intern</h3>
+          <p class="exp-company"><i class="fas fa-building"></i> Arch Technologies &nbsp;·&nbsp; 2026</p>
+        </div>
+        <span class="badge">Internship</span>
+      </div>
+      <ul class="exp-list">
+        <li>Built ML models using Python and Scikit-learn on real datasets.</li>
+        <li>Preprocessed text data — tokenization, stopword removal, stemming.</li>
+        <li>Developed and trained an SMS Spam detection model.</li>
+        <li>Cleaned and engineered features to improve accuracy.</li>
+        <li>Deployed live Streamlit web app for real-time predictions.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- SKILLS -->
+  <section id="skills" class="sec">
+    <span class="sec-tag">Skills</span>
+    <h2>My Toolkit</h2>
+    <div class="skills-grid">
+      <div class="skill-box">
+        <h3>AI & ML</h3>
+        <div class="tags">
+          <span>Machine Learning</span><span>Scikit-learn</span>
+          <span>Streamlit</span><span>Model Training</span><span>Evaluation</span>
+        </div>
+      </div>
+      <div class="skill-box">
+        <h3>Data Science</h3>
+        <div class="tags">
+          <span>Python</span><span>Pandas</span><span>NumPy</span>
+          <span>Data Cleaning</span><span>Visualization</span>
+        </div>
+      </div>
+      <div class="skill-box">
+        <h3>Database</h3>
+        <div class="tags">
+          <span>MySQL</span><span>SQL</span><span>DB Design</span>
+        </div>
+      </div>
+      <div class="skill-box">
+        <h3>Tools</h3>
+        <div class="tags">
+          <span>Git</span><span>GitHub</span><span>VS Code</span><span>Jupyter</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact" class="sec">
+    <span class="sec-tag">Contact</span>
+    <h2>Get In Touch</h2>
+    <p class="sec-desc">Open to collaborations, projects, and opportunities in data science and ML.</p>
+    <ul class="contact-list">
+      <li><i class="fas fa-envelope"></i> sankesh.lal12@gmail.com</li>
+      <li><i class="fas fa-phone"></i> +92 308 3484370</li>
+      <li><i class="fas fa-map-marker-alt"></i> Sukkur, Pakistan</li>
+    </ul>
+    <div class="contact-btns">
+      <a href="mailto:sankesh.lal12@gmail.com" class="btn-solid"><i class="fas fa-paper-plane"></i> Send Email</a>
+      <a href="https://www.linkedin.com/in/sankeshlal/" target="_blank" class="btn-ghost"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2026 Sankesh Lal. All rights reserved.</p>
+    <div class="social">
+      <a href="https://github.com/Sankesh12" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/sankeshlal/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.kaggle.com/sankeshlal" target="_blank"><i class="fab fa-kaggle"></i></a>
+      <a href="mailto:sankesh.lal12@gmail.com"><i class="fas fa-envelope"></i></a>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
