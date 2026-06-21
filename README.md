@@ -68,7 +68,7 @@ Open index.html directly in your browser
 
 ## 🌍 Live Demo
 
-🔗 [https://sankesh12.github.io/sankesh-lal12.github.io/](https://sankesh12.github.io/sankesh-lal12.github)
+🔗 [https://sankesh12.github.io/sankesh-lal12.github.io/](https://sankesh12.github.io/sankesh-lal12.github/)
 
 ---
 
