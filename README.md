@@ -18,8 +18,6 @@ I build smart ML apps — from raw data to live, working predictions.
 - 📊 Data Analysis & Visualization
 - 🤖 Machine Learning Models
 - 🌐 Web Apps using Streamlit
-- 🗄️ SQL & Database Design
-
 ---
 
 ## 🚀 Features
