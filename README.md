@@ -3,7 +3,7 @@
 
 ---
 
-# 🌐 Sankesh Lal — Portfolio Website
+# 🌐 Sankesh Lal  Portfolio Website
 
 Welcome to my personal portfolio website. 
 A clean, fully responsive portfolio.
