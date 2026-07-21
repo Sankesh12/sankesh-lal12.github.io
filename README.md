@@ -6,7 +6,7 @@
 # 🌐 Sankesh Lal — Portfolio Website
 
 Welcome to my personal portfolio website. 
-A clean, fully responsive portfolio built with HTML, CSS, and JavaScript.
+A clean, fully responsive portfolio.
 
 ---
 
@@ -31,15 +31,6 @@ I build smart ML apps — from raw data to live, working predictions.
 
 ---
 
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome Icons
-
----
-
 ## 📂 Projects Included
 
 | Project | Description | Live Demo |
@@ -56,13 +47,6 @@ I build smart ML apps — from raw data to live, working predictions.
 ```bash
 git clone https://github.com/Sankesh12/sankesh-lal12.github.io.git
 ```
-
-### 2. Open in browser
-```
-Open index.html directly in your browser
-```
-
----
 
 ## 🌍 Live Demo
 
