@@ -12,8 +12,8 @@ A clean, fully responsive portfolio.
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Sankesh Lal** — a Data Scientist & ML Engineer based in Sukkur, Pakistan.  
-I build smart ML apps — from raw data to live, working predictions.
+Hi, I'm **Sankesh Lal**, a Data Scientist & ML Engineer based in Sukkur, Pakistan.  
+I build smart ML apps from raw data to live, working predictions.
 
 - 📊 Data Analysis & Visualization
 - 🤖 Machine Learning Models
