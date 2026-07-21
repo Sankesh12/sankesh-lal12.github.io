@@ -50,7 +50,7 @@ git clone https://github.com/Sankesh12/sankesh-lal12.github.io.git
 
 ## 🌍 Live Demo
 
-🔗 [https://sankesh12.github.io/sankesh-lal12.github.io/](https://sankesh12.github.io/sankesh-lal12.github/)
+🔗 [https://sankesh12.github.io/sankesh-lal12.github.io/](https://sankesh12.github.io/sankesh-lal12.github.io/)
 
 ---
 
