@@ -1,5 +1,5 @@
 # 📸 Preview
-<img src="./SK.jpeg" width="200" alt="Sankesh Lal">
+<img src="./SK.jpg" width="200" alt="Sankesh Lal">
 
 ---
 
