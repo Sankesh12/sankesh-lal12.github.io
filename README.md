@@ -56,10 +56,25 @@ git clone https://github.com/Sankesh12/sankesh-lal12.github.io.git
 
 ## 📬 Contact
 
-- 📧 Email: [sankesh.lal12@gmail.com](mailto:sankesh.lal12@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/sankeshlal](https://www.linkedin.com/in/sankeshlal/)
-- 💻 GitHub: [github.com/Sankesh12](https://github.com/Sankesh12)
-- 📊 Kaggle: [kaggle.com/sankeshlal](https://www.kaggle.com/sankeshlal)
+<p align="left">
+
+<a href="mailto:sankesh.lal12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sankeshlal/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sankesh12" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/sankeshlal" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle=181717?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
