@@ -63,4 +63,4 @@ git clone https://github.com/Sankesh12/sankesh-lal12.github.io.git
 
 ---
 
-© 2026 Sankesh Lal. All rights reserved.
+© Sankesh Lal. All rights reserved.
