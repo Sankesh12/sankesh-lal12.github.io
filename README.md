@@ -35,9 +35,10 @@ I build smart ML apps from raw data to live, working predictions.
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
+| 🧠 Mental Health Score Prediction | Predicting Student Mental Health Score using Social Media Usage, Lifestyle Habits, and Academic Information. | [View](https://mental-health-score-sankesh-lal.vercel.app/) |
 | 📧 Email/SMS Spam Classifier | NLP model using Naive Bayes to detect spam | [View](https://email-sms-spam-classifier-01.streamlit.app/) |
 | 💻 Laptop Price Predictor | Predicts laptop price based on specifications | [View](https://laptop-price-predictor-01.streamlit.app/) |
-| 🧠 Mental Health Score Prediction | Predicting Student Mental Health Score using Social Media Usage, Lifestyle Habits, and Academic Information. | [View](https://mental-health-score-sankesh-lal.vercel.app/) |
+
 
 ---
 
@@ -71,7 +72,7 @@ git clone https://github.com/Sankesh12/sankesh-lal12.github.io.git
 </a>
 
 <a href="https://www.kaggle.com/sankeshlal" target="_blank">
-<img src="https://img.shields.io/badge/Kaggle=181717?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 </p>
