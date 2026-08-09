@@ -35,7 +35,7 @@ I build smart ML apps from raw data to live, working predictions.
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| 🧠 Mental Health Score Prediction | Predicting Student Mental Health Score using Social Media Usage, Lifestyle Habits, and Academic Information. | [View](https://mental-health-score-sankesh-lal.vercel.app/) |
+| 🧠 Mental Health Score Prediction | Predicting Student Mental Health Score using Social Media Usage, Lifestyle Habits, and Academic Information. | [View](https://mental-health-score-prediction.vercel.app/) |
 | 📧 Email/SMS Spam Classifier | NLP model using Naive Bayes to detect spam | [View](https://email-sms-spam-classifier-01.streamlit.app/) |
 | 💻 Laptop Price Predictor | Predicts laptop price based on specifications | [View](https://laptop-price-predictor-01.streamlit.app/) |
 
